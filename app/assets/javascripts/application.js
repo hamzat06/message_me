@@ -16,3 +16,5 @@
 //= require turbolinks
 //= require semantic-ui
 //= require_tree .
+
+require('./main.js')
